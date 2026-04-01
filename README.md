@@ -44,7 +44,7 @@ A total of **8 vulnerabilities** were identified across the application:
 
 ## 📄 Full Report
 The complete vulnerability assessment report is available here:
-👉 Vulnerability_Report.pdf
+👉 Cyber Security Report.pdf
 
 ## 🔐 Ethical Statement
 This assessment was conducted in accordance with ethical security testing guidelines:
