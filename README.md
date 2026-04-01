@@ -42,11 +42,11 @@ A total of **8 vulnerabilities** were identified across the application:
 | 🟡 **MEDIUM** | 3 | Missing security headers, snippet exposure |
 | 🟢 **LOW** | 1 | Information disclosure |
 
-##📄 Full Report
+## 📄 Full Report
 The complete vulnerability assessment report is available here:
 👉 Vulnerability_Report.pdf
 
-##🔐 Ethical Statement
+## 🔐 Ethical Statement
 This assessment was conducted in accordance with ethical security testing guidelines:
 
 ✅ Passive, read-only techniques only
@@ -57,7 +57,7 @@ This assessment was conducted in accordance with ethical security testing guidel
 
 ✅ All testing performed on a deliberately vulnerable training application
 
-##👤 Author
+## 👤 Author
 Mulumbwa Matimelo
 https://github.com/MnM-magic
 Cyber Security Task 1 (2026) - Future Interns
