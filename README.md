@@ -4,7 +4,7 @@
 # FUTURE_CS_01
 # Google Gruyere - Vulnerability Assessment Report
 
-## 📋 Overview
+##📌 Project Overview
 
 This repository contains a comprehensive vulnerability assessment conducted on **Google Gruyere**, a deliberately vulnerable web application designed for security training. The assessment used **passive, read-only techniques** to identify security weaknesses.
 
